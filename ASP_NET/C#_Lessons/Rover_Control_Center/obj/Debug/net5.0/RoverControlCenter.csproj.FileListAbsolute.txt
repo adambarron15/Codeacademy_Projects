@@ -1,0 +1,16 @@
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\net5.0\RoverControlCenter.exe
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\net5.0\RoverControlCenter.deps.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\net5.0\RoverControlCenter.runtimeconfig.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\net5.0\RoverControlCenter.runtimeconfig.dev.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\net5.0\RoverControlCenter.dll
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\net5.0\ref\RoverControlCenter.dll
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\net5.0\RoverControlCenter.pdb
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\RoverControlCenter.csproj.AssemblyReference.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\RoverControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\RoverControlCenter.AssemblyInfoInputs.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\RoverControlCenter.AssemblyInfo.cs
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\RoverControlCenter.csproj.CoreCompileInputs.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\RoverControlCenter.dll
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\ref\RoverControlCenter.dll
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\RoverControlCenter.pdb
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\net5.0\RoverControlCenter.genruntimeconfig.cache

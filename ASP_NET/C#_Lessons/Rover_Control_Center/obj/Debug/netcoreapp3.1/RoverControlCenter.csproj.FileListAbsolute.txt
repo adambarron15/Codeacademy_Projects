@@ -1,0 +1,14 @@
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\netcoreapp3.1\RoverControlCenter.exe
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\netcoreapp3.1\RoverControlCenter.deps.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\netcoreapp3.1\RoverControlCenter.runtimeconfig.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\netcoreapp3.1\RoverControlCenter.runtimeconfig.dev.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\netcoreapp3.1\RoverControlCenter.dll
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\bin\Debug\netcoreapp3.1\RoverControlCenter.pdb
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\netcoreapp3.1\RoverControlCenter.csproj.AssemblyReference.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\netcoreapp3.1\RoverControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\netcoreapp3.1\RoverControlCenter.AssemblyInfoInputs.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\netcoreapp3.1\RoverControlCenter.AssemblyInfo.cs
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\netcoreapp3.1\RoverControlCenter.csproj.CoreCompileInputs.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\netcoreapp3.1\RoverControlCenter.dll
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\netcoreapp3.1\RoverControlCenter.pdb
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Rover_Control_Center\obj\Debug\netcoreapp3.1\RoverControlCenter.genruntimeconfig.cache
