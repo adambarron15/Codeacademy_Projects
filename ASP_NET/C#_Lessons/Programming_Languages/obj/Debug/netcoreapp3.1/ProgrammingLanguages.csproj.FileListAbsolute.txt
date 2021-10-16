@@ -1,0 +1,14 @@
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\bin\Debug\netcoreapp3.1\ProgrammingLanguages.exe
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\bin\Debug\netcoreapp3.1\ProgrammingLanguages.deps.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\bin\Debug\netcoreapp3.1\ProgrammingLanguages.runtimeconfig.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\bin\Debug\netcoreapp3.1\ProgrammingLanguages.runtimeconfig.dev.json
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\bin\Debug\netcoreapp3.1\ProgrammingLanguages.dll
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\bin\Debug\netcoreapp3.1\ProgrammingLanguages.pdb
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\obj\Debug\netcoreapp3.1\ProgrammingLanguages.csproj.AssemblyReference.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\obj\Debug\netcoreapp3.1\ProgrammingLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\obj\Debug\netcoreapp3.1\ProgrammingLanguages.AssemblyInfoInputs.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\obj\Debug\netcoreapp3.1\ProgrammingLanguages.AssemblyInfo.cs
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\obj\Debug\netcoreapp3.1\ProgrammingLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\obj\Debug\netcoreapp3.1\ProgrammingLanguages.dll
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\obj\Debug\netcoreapp3.1\ProgrammingLanguages.pdb
+C:\Users\Adam Barron\source\repos\Codeacademy_Projects\ASP_NET\C#_Lessons\Programming_Languages\obj\Debug\netcoreapp3.1\ProgrammingLanguages.genruntimeconfig.cache
